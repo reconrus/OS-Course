@@ -1,0 +1,199 @@
+    1  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7
+    2  echo 'deb https://repo.windscribe.com/ubuntu zesty main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list
+    3  sudo apt-get update
+    4  sudo apt-get install windscribe-cli
+    5  windscribe login
+    6  windsribe alahar
+    7  sudo apt-get install windscribe-cli
+    8  apt-ger install software-center
+    9  apt-get install software-center
+   10  sudo apt-get install software-center
+   11  ubuntu-software-center
+   12  lubuntu-software-center
+   13  sudo apt update
+   14  sudo apt upgraae
+   15  sudo apt upgrade
+   16  sudo apt autoremove
+   17  y
+   18  sudo apt-get install -f
+   19  sudo apt-get install synaptic
+   20  sudo apt-get install alien dpkg-dev debhelper build-essential
+   21  ps aux | grep apt
+   22  kill processnumber
+   23  kill -9 processnumber
+   24  kill -9 38868
+   25  ps aux | grep apt
+   26  kill -9 4072
+   27  ps aux | grep apt
+   28  kill 38868
+   29  ps aux | grep apt
+   30  sudo systemctl stop apt-daily.timer
+   31  sudo apt-get install alien dpkg-dev debhelper build-essential
+   32  sudo rpm -i vivaldi-stable-1.15.1147.42-1.x86_64.rpm
+   33  sudo dpkg -i vivaldi-stable-1.15.1147.42-1.x86_64.deb
+   34  sudo dpkg -i vivaldi-stable_1.15.1147.42-1_amd64.deb
+   35  sudo dpkg -i vivaldi.deb
+   36  sudo apt-get install ./home/coolhawk/Downloads/vivaldi.deb
+   37  sudo dpkg -i /home/coolhawk/Downloads/vivaldi.deb
+   38  sudo rpm -i /home/coolhawk/Downloads/vivaldi-stable-1.15.1147.42-1.x86_64.rpm
+   39  sudo dpkg -i /home/coolhawk/Downloads/vivaldi.deb
+   40  sudo apt-get -f install
+   41  sudo dpkg -i /home/coolhawk/Downloads/vivaldi.deb
+   42  vivaldi
+   43  sudo apt-get remove software-center
+   44  ls
+   45  sudo apt install gdebi
+   46  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-key FDC247B7
+   47  echo 'deb https://repo.windscribe.com/ubuntu zesty main' | sudo tee /etc/apt/sources.list.d/windscribe-repo.list
+   48  sudo apt-get update
+   49  sudo apt-get install windscribe-cli
+   50  reconrus
+   51  windscribe login
+   52  windscribe connect
+   53  windscribe disconnect
+   54  cd ./home/Programming/
+   55  ./home/Programming/
+   56  ./home/Programming/hello.c
+   57  /home/coolhawk/Programming/
+   58  cc / home/coolhawk/Programming/
+   59  cc /home/coolhawk/Programming/hello.c
+   60  a.out
+   61  cc hello.c
+   62  cc /home/coolhawk/Programming/hello.c
+   63  /home/coolhawk/Programming/hello.c
+   64  a.out
+   65  apt-get install git
+   66  sudo apt-get install git
+   67  sudo add-apt-repository ppa:git-core/ppa
+   68  sudo apt update
+   69  sudo apt install git
+   70  sudo apt-get install cmake
+   71  $ sudo apt-get install check
+   72  sudo apt-get install check
+   73  sudo apt-get install cmake
+   74  sudo apt install check
+   75  windscribe connect
+   76  windscribe help
+   77  windscribe
+   78  windscribe status
+   79  windscribe account
+   80  sudo apt install docker
+   81  ls 
+   82  pwd
+   83  mkdir JupyterHub
+   84  cd JupyterHub
+   85  cd ..
+   86  cd JupyterHub/
+   87  docker pull jupyterhub/jupyterhub
+   88  sudo apt install docker.io
+   89  sudo system stl
+   90  sudo systemctl
+   91  sudo systemctl start docker
+   92  sudo systemctl start dockerd --debug
+   93  sudo systemctl start docker --debug
+   94  sudo systemctl start --debug dockerd 
+   95  dockerd --debug
+   96  sudo dockerd --debug
+   97  sudo service docker start
+   98  sudo apt install  docker-engine
+   99  sudo apt install docker-engine
+  100  cd /home/coolhawk/downloads 
+  101  cd /home/coolhawk/Downloads
+  102  chmod +x ./NVIDIA.run
+  103  sudo ./NVIDIA.run
+  104  sudo service lightdm stop
+  105  sudo ./NVIDIA.run
+  106  sudo apt-get updaet
+  107  sudo apt-get update
+  108  sudo nano $ sudo apt-get update
+  109  lsmod | grep nvidia
+  110  sudo apt-mark hold nvidia-396
+  111  $ sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  112     $(lsb_release -cs) \
+  113     stable"
+  114  sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  115     $(lsb_release -cs) \
+  116     stable"[B
+  117  sudo apt-get update
+  118  sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu \$(lsb_release -cs) \ stable"
+  119  sudo apt-get update
+  120  /etc/apt/sources.list
+  121  sudo 
+  122  sudo /etc/apt/sources.list
+  123  /etc/apt/sources.list
+  124  sudo cp /etc/apt/sources.list
+  125  sudo nano /etc/apt/sources.list
+  126  sudo apt-get update
+  127  sudo apt-get install docker-ce
+  128  sudo apt-get update
+  129  sudo nano /etc/apt/sources.list
+  130  gksudo gedit /etc/apt/sources.list
+  131  sudo gedit /etc/apt/sources.list
+  132  sudo gedit /etc/apt/sources.list.d
+  133  sudo ls /etc/apt/sources.list.d
+  134  sudo nano /etc/apt/sources.list.d
+  135  sudo add-apt-repository --remove ppa:[arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) \ stable
+  136  sudo add-apt-repository --remove ppa:https://download.docker.com/linux/ubuntu
+  137  sudo add-apt-repository --remo
+  138  sudo add-apt-repository --remove ppa:[arch=amd64] https://download.docker.com/linux/ubuntu $(lsb_release -cs) \ stable
+  139  sudo add-apt-repository --remove ppa: $(lsb_release -cs)
+  140  sudo ls /etc/apt/sources.list.d
+  141  $ sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  142     $(lsb_release -cs) \
+  143     stable"
+  144  sudo apt-get update
+  145  sudo rm 
+  146  $ sudo add-apt-repository    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
+  147     $(lsb_release -cs) \
+  148  sudo nano /etc/apt/sources.list
+  149  windscribe disconnect
+  150  windscribe connect
+  151  windscribe disconnect
+  152  adduser remote
+  153  sudo adduser remote
+  154  docker run --rm -it -v /tmp:</home/CoolHawk/Downloads/docker> gcc bash
+  155  docker run --rm -it -v /tmp:</home/coolhawk/Downloads/docker> gcc bash
+  156  ls
+  157  mkdir week1
+  158  ls 
+  159  cd ~
+  160  cd /
+  161  cd /usr/bin
+  162  ls 
+  163  mkdir week1
+  164  sudo mkdir week1
+  165  ls |sort -r|*gcc| >week1/ex1.txt
+  166  sudo ls |sort -r|*gcc| >week1/ex1.txt
+  167  sudo ls |*gcc sort -r| >week1/ex1.txt
+  168  rm week1
+  169  rm -r week1
+  170  sudo rm -r week1
+  171  cd ~
+  172  cd home/coolhawk
+  173  cd /home/coolhawk
+  174  cd programming
+  175  cd Programming
+  176  mkdir week1
+  177  cd /usr/bin
+  178  sudo ls |*gcc sort -r| >/~/Programming/list.txt
+  179  sudo ls |*gcc sort -r| >~/Programming/list.txt
+  180  cd Ё
+  181  cd ~
+  182  sudo mkdir week1
+  183  cd usr/bin
+  184  cd /usr/bin
+  185  sudo ls -r *gcc >~/week1/ex1.txt
+  186  cd ~
+  187  sudo hamachi join kyk
+  188  sudo hamachi login
+  189  hamachi attach #deletedInfo
+  190  sudo hamachi attach #deletedInfo
+  191  sudo hamachi join kyk
+  192  sudo apt-get install x11vnc
+  193  sudo x11vnc -storepasswd /etc/x11vnc.pass
+  194  sudo nano /lib/systemd/system/x11vnc.service
+  195  sudo systemctl enable x11vnc.service
+  196  sudo systemctl daemon-reload
+  197  sudo systemctl start x11vnc.service
+  198  history > /week1/ex2.txt
+  199  history > week1/ex2.txt
