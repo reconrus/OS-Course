@@ -3,6 +3,7 @@
 
 int main(){
     char s[1000];
+    printf("%s", "Enter a string: ");
     scanf("%s", s);
     int len = strlen(s);
 
