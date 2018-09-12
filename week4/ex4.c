@@ -30,10 +30,10 @@ void execute(char ** args){
    }	
    else{
 	int status;
+	int w;
    	do{
-	   status = waitpid(pid, &status, WNOHANG);
+	   w = waitpid(pid, &status, WNOHANG);
 	}while(!WIFEXITED(status));
-
    }
 }
 
