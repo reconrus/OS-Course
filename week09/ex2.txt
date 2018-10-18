@@ -1,0 +1,7 @@
+Increasing Hit/Miss Ratio: 
+Creating a sequence with repeating page frame numbers in such a way that quantity of other page frame numbers between them will be less than page table size.
+E.g. sequence of only repeating page frame numbers (n/1)
+
+Decreasing Hit/Miss Ratio:
+Creating a sequence without repeating page frame numbers (PFN) or trying to make number of non-repeating PFNs between repeating PFNs more than page table size.
+E.g. sequence with unique PFNs (0/n)  
