@@ -1,0 +1,7 @@
+-rwxrwxrwx 1 coolhawk coolhawk 0 окт 24 17:43 _ex3.txt
+-rw-rw-rw- 1 coolhawk coolhawk 0 окт 24 17:43 _ex3.txt
+-rwxrw-rwx 1 coolhawk coolhawk 0 окт 24 17:43 _ex3.txt
+-rwxrwxrwx 1 coolhawk coolhawk 0 окт 24 17:43 _ex3.txt
+660: owner and group can read/write
+775: owner and group can read/write/execute, others can only read or execute
+777: all can read/write/execute

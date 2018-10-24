@@ -1,0 +1,4 @@
+2493306 _ex2.txt
+2493306 ../week01/file.txt
+../week01/file.txt
+../week10/_ex2.txt
