@@ -1,0 +1,3 @@
+stdout uses line buffering. So, as mentioned in lab, "data is written when a newline character is inserted into the stream".
+In the first example printing "Hello" will be after fork() and printf("\n") since both processes has non-empty buffers.
+In the second example printing "Hello" will be before fork() since newline character is presented in the first printf. And after fork buffers will be already cleared.
